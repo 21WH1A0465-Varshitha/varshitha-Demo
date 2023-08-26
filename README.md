@@ -1,4 +1,4 @@
 # varshitha-Demo
 This is my first Git Repository.
 <br>
-Author-Varshitha  
+Author-Varshitha Pendyala
